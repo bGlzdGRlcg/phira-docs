@@ -11,6 +11,18 @@
   - [谱面文件格式](chart-standard/chart-format/index.md)
 
     - [RPE](chart-standard/chart-format/rpe/index.md)
+      - [谱面根目录](chart-standard/chart-format/rpe/root.md)
+      - [判定线](chart-standard/chart-format/rpe/judgeLine.md)
+      - [beat](chart-standard/chart-format/rpe/beat.md)
+      - [音符](chart-standard/chart-format/rpe/note.md)
+      - [普通事件](chart-standard/chart-format/rpe/event.md)
+      - [特殊事件](chart-standard/chart-format/rpe/extendEvent.md)
+      - [扩展特性](chart-standard/chart-format/rpe/extend.md)
+    - [Official](chart-standard/chart-format/phi/index.md)
+      - [谱面根目录](chart-standard/chart-format/phi/root.md)
+      - [音符](chart-standard/chart-format/phi/note.md)
+      - [事件](chart-standard/chart-format/phi/event.md)
+      - [判定线](chart-standard/chart-format/phi/judgeLine.md)
 
   - [音乐文件格式](chart-standard/music.md)
 
@@ -36,6 +48,8 @@
     - [视频背景](chart-standard/extra/video/index.md)
 
   - [解锁动画](chart-standard/unlock_video/index.md)
+
+- [活动指南](./event/index.md)
 
 - [UML文档](./uml/README.md)
 
